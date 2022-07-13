@@ -1,0 +1,21 @@
+    {
+    "numbers": {
+            "minAddNumber": 5,
+            "maxAddNumber": 20,
+            "minSubtractNumber": 1,
+            "maxSubtractNumber": 10,
+            "minMultiplyNumber": 1,
+            "maxMultiplyNumber": 10,
+            "minDivideNumber": 1,
+            "maxDivideNumber": 10
+        },
+    "timers": {
+            "correctNextQuestion": 2,
+            "wrongNextQuestion": 4,
+            "questionTimer": 10
+        },
+        "quiz": {
+            "quizQuestions": 10,
+            "showQuestionTimer": true
+        }
+    }

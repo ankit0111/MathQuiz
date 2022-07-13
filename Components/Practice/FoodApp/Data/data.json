@@ -1,0 +1,9 @@
+[{
+    "id": "1",
+     "name": "CAT1",
+     "desc": "Category 1 Description"
+ }, {
+    "id": "2",
+     "name": "CAT2",
+     "desc": "Category 2 Description"
+ }]
